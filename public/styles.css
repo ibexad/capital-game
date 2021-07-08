@@ -1,6 +1,7 @@
-  .leaflet-container {
-    height: 80%;
+ .leaflet-container {
+    position: relative;
+    border: 1px solid black;
     width: 100%;
-    position: absolute !important;
-    margin: 0 auto;
+    height: 100%;
   }
+
