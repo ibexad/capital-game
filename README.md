@@ -22,6 +22,10 @@ The high score is the amount of cities you have found.
 
 - Chrome Version 91.0.4472.124 (Official Build) (64-bit)
 - Microsoft Edge Version 91.0.864.64 (Official build) (64-bit)
+- Safari 14.1 macOS 10.14
 - Galaxy S5 360x640 (Vertical & Horizontal)
-- iPhone 6/7/8 375x667 (Vertical & Horizontal)
+- iPhone 5/SE 320x568 (Vertical & Horizontal)
+- iPhone 6/7/8 Plus 375x667 (Vertical & Horizontal)
+- iPhone X 375x667 (Vertical & Horizontal)
+- iPad/ iPad Pro 768x1024/ 1024x1366
 - iPad 2
