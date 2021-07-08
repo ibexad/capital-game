@@ -9,7 +9,7 @@ In the beginning, the player has a predetermined score of 1500 that symbolizes k
 The game ends when no kilometers are left.
 The high score is the amount of cities you have found.
 
-![alt text](https://github.com/ibexad/game-map/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/ibexad/capital-game/blob/main/image.jpg)
 
 ### Features
 
